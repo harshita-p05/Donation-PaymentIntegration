@@ -1,0 +1,34 @@
+.inputvalues1{
+width:330px;
+margin:0 auto;
+padding:5px;
+}
+#back_btn
+{
+margin-top:10px;
+background-color:#d63031;
+padding:5px;
+color:white;
+width:100px;
+text-align:center-left;
+font-size:18px;
+font-weight:bold;
+}
+#signup_btn{
+margin-top:10px;
+background-color:#00b894;
+padding:5px;
+color:white;
+width:350px;
+text-align:center;
+font-size:18px;
+font-weight:bold; 
+}
+.regis{
+width:100px;
+text-align:center;
+}
+.myform{
+width:500px;
+margin:0 auto;
+}
