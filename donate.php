@@ -1,13 +1,11 @@
 <html>
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>DONATION FORM</title>
 <link rel="stylesheet" href="styles1.css">
 <style>
  body{
- background-image : url("https://www.lefthudson.com/wp-content/uploads/2019/11/light-colours-wallpapers-best-of-light-colored-wallpaper-wallpapersafari-combination-of-light-colours-wallpapers.jpg");
- background-repeat : no-repeat;
-  height: 100%;
-   background-position: center;
+background-color: #F0FFFF;
  }
  </style>
 </head>
