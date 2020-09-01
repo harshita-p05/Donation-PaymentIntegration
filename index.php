@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Go Giving</title>
 	<link rel="stylesheet" href="styles.css">
-  </head>
+  
   <body>
     <div class="header">
    <center> <p>
@@ -20,5 +20,3 @@ Donate now to support the children.<br>
 </p></h2>
 <button onclick="window.location.href='donate.php';" class="button button2">Donate Now</button>
 <button onclick="window.location.href='aboutus.php';" class="button button2">About Us</button>
-</body>
-</html>
